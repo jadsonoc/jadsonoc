@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there 👋
 
-### 😁 Nice to meet you ... 
+#### 😁 So glad to have you here... 
 
 Since 2022/1, I'm majoring in Sistemas para Internet at [IFRS](https://www.poa.ifrs.edu.br). I'm from Porto Alegre. In 2015, I lived in southeastern Great Britain, for six months as a studant at Exeter Uni. Tech has always been heartwarming for me. I'm looking forward explore and learn new technologies and improve my programming skills. I'm currently a Civil Servant seeking to change carreers.
 
