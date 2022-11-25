@@ -22,6 +22,10 @@ I'm Jadson, born and raised in Porto Alegre, Rio Grande do Sul. Since 2022/1, I'
 - 💞️ I’m looking to collaborate on sustainability and "any-crowd-aiming" project
 - 🌱 I'm passionate about cooking and Olive Oil researchs
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadsonoc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### 📖 Studying...
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C Sharp" width="30" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="30" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="30" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="30" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" />
 
@@ -36,8 +40,6 @@ I'm Jadson, born and raised in Porto Alegre, Rio Grande do Sul. Since 2022/1, I'
 ### 📈 Statistics, so far...
 
 ![Jadsonoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadsonoc&show_icons=true&theme=tokyonight) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadsonoc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
