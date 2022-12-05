@@ -21,7 +21,7 @@ Tech has always been heartwarming for me. I'm looking forward explore and learn 
 - 👀 I’m interested in web development
 - ✨ I’m currently learning React and Java
 - 💞️ I’m looking to collaborate on sustainability and "any-crowd-aiming" project
-- 🌱 I'm passionate about cooking and Olive Oil researchs
+- 🌱 I'm passionate about cooking and Agatha Christie
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadsonoc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
