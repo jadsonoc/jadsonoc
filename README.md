@@ -12,7 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 #### 😁 So glad to have you here... 
 
-I'm Jadson, born and raised in Porto Alegre, Rio Grande do Sul. Since 2022/1, I'm majoring in Sistemas para Internet at [IFRS](https://www.poa.ifrs.edu.br). In 2015, I lived in southeastern Great Britain, for six months as a studant at Exeter Uni. Tech has always been heartwarming for me. I'm looking forward explore and learn new technologies and improve my programming skills. I'm currently a Civil Servant seeking to change carreers.
+I'm Jadson, born and raised in Porto Alegre, Rio Grande do Sul. Since January, 2022 I'm majoring in Sistemas para Internet at [IFRS](https://www.poa.ifrs.edu.br). I came from Gastronomy, Nutrition and Olive Oil reserach areas. In 2015, I got the opportunity of living in southeastern Great Britain for six months as a studant at Exeter Uni. 
+Tech has always been heartwarming for me. I'm looking forward explore and learn new technologies and improve my programming skills. I'm currently a Civil Servant seeking to change carreers.
 
 #### 🗣️ Feel free to get in touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadsonoc/)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CZPCpzmZz2) [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/jadsonoc)  [![PSN](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](jadsonoc)
