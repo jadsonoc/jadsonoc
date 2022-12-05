@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 #### 😁 So glad to have you here... 
 
-I'm Jadson, born and raised in Porto Alegre, Rio Grande do Sul. Since January, 2022 I'm majoring in Sistemas para Internet at [IFRS](https://www.poa.ifrs.edu.br). I came from Gastronomy, Nutrition and Olive Oil reserach areas. In 2015, I got the opportunity of living in southeastern Great Britain for six months as a studant at Exeter Uni. 
+I'm Jadson, born and raised in Porto Alegre, Rio Grande do Sul. Since January, 2022 I'm majoring in Sistemas para Internet at [IFRS](https://www.poa.ifrs.edu.br). I came from Gastronomy, Nutrition and Olive Oil reserach areas. In 2015, I've got the opportunity of living in southeastern Great Britain for six months as a studant at Exeter Uni. 
 Tech has always been heartwarming for me. I'm looking forward explore and learn new technologies and improve my programming skills. I'm currently a Civil Servant seeking to change carreers.
 
 #### 🗣️ Feel free to get in touch:
